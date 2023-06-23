@@ -1,0 +1,5 @@
+export {default as Card} from './ProfileCard/Card'
+export {default as Avatar} from './ProfileCard/Avatar'
+export {default as PersonalInfo} from './ProfileCard/PersonalInfo'
+export {default as Interests} from './ProfileCard/Interests'
+export {default as Buttons} from './ProfileCard/Button'
